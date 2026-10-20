@@ -1,0 +1,26 @@
+{
+  "name": "automa-o-ui-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DouglasR12/automa-o-ui-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DouglasR12/automa-o-ui-cypress/issues"
+  },
+  "homepage": "https://github.com/DouglasR12/automa-o-ui-cypress#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "cypress": "^16.2.0"
+  }
+}
